@@ -1,0 +1,23 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":1,"path":"folders/Objects.yy",},
+    {"name":"objGameplay","order":3,"path":"folders/Objects/objGameplay/objGameplay.yy",},
+    {"name":"objParameters","order":1,"path":"folders/Objects/objGameplay/objParameters.yy",},
+    {"name":"Sprites","order":4,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"objCamera","order":1,"path":"objects/objCamera/objCamera.yy",},
+    {"name":"objKeyboard","order":6,"path":"objects/objKeyboard/objKeyboard.yy",},
+    {"name":"objLeaderboard","order":2,"path":"objects/objLeaderboard/objLeaderboard.yy",},
+    {"name":"objMicro","order":1,"path":"objects/objMicro/objMicro.yy",},
+    {"name":"objPlayer","order":3,"path":"objects/objPlayer/objPlayer.yy",},
+    {"name":"objRemap","order":8,"path":"objects/objRemap/objRemap.yy",},
+    {"name":"roomNameChoose","order":5,"path":"rooms/roomNameChoose/roomNameChoose.yy",},
+    {"name":"roomRemap","order":7,"path":"rooms/roomRemap/roomRemap.yy",},
+    {"name":"scrController","order":2,"path":"scripts/scrController/scrController.yy",},
+    {"name":"keyboard_sprite","order":5,"path":"sprites/keyboard_sprite/keyboard_sprite.yy",},
+    {"name":"sprArrow","order":4,"path":"sprites/sprArrow/sprArrow.yy",},
+    {"name":"sprSpeechBubbles","order":1,"path":"sprites/sprSpeechBubbles/sprSpeechBubbles.yy",},
+    {"name":"xbox_series_sheet_default","order":2,"path":"sprites/xbox_series_sheet_default/xbox_series_sheet_default.yy",},
+  ],
+}

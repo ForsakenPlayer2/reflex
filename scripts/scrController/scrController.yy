@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrController",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrController",
+  "parent":{
+    "name":"REFLEX",
+    "path":"REFLEX.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

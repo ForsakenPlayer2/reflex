@@ -1,0 +1,1 @@
+draw_text(0, 0, "Choose a name " + string(global.player) +":" + keyboard_string)
